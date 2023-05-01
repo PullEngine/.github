@@ -30,4 +30,4 @@ Streamline your open source project's pull request management, empowering commun
 
 > NOTE: PullEngine is under active development, all of the features listed below are theoretical and could change at any moment.
 
-<img src='../assets/readme1.png'>
+<img src='/assets/readme1.png'>
