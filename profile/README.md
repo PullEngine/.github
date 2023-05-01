@@ -1,6 +1,6 @@
 <p align="center">
   <p align="center">
-   <img width="150" height="150" src="../assets/logo-rounded.svg" alt="Logo">
+   <img width="150" height="150" src="/assets/logo-rounded.svg" alt="Logo">
   </p>
   <h1 align="center"><b>PullEngine</b></h1>
   <p align="center">
