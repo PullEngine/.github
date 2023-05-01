@@ -32,3 +32,4 @@ Streamline your open source project's pull request management, empowering commun
 
 <img src='/assets/readme1.png'>
 <img src='/assets/readme2.png'>
+<img src='/assets/readme3.png'>
